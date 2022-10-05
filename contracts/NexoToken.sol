@@ -14,9 +14,9 @@ import './utils/Token.sol';
 contract NexoToken is Token {
 
 	/// TOKEN META DATA
-	string constant public name = 'Nexo';
-	string constant public symbol = 'NEXO';
-	uint8  constant public decimals = 18;
+	string constant public name = 'ERC20';
+	string constant public symbol = 'TOKEN';
+	uint8  constant public decimals = -18;
 
 
 	/// ALOCATIONS
